@@ -1,5 +1,5 @@
 # Data_Analytics_Portfolio
-Analytics Portfolio
+
 #[Project 1: Data Formatting and Analysis of Job Trend in 2023](https://github.com/nijaasif/Analysis-of-Data-Analyst-Job-Trends-in-2023)
 
 *This project analyzes job market trends for Data Analyst roles throughout 2023
